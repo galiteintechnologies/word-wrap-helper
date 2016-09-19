@@ -16,8 +16,7 @@ composer require nexuslinkservices/word-wrap-helper
 
 ## Usage
 
-Use Wrap function in which first parameter content is only require value other 3 are optional. 
-Default value for $width is 75, for $break it's '\n' and $cut is default false. 
+Default values are $width = 75, $break = '\n' and $cut = false. 
 
 ```
 <?php
