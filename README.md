@@ -20,6 +20,7 @@ Default values are $width = 75, $break = '\n' and $cut = false.
 
 ```
 <?php
+
 use WordWrapHelper\WordFormatter;
 
 $wordFormatter = new WordFormatter();
@@ -31,7 +32,7 @@ $result = $wordFormatter->wrap($content, 30, '-<br/>');
 echo $result;
 ```
 
-## Output on PHP
+## Output
 
 ```
 Lorem Ipsum is simply dummy-<br/>text of the printing and-<br/>typesetting industry.
