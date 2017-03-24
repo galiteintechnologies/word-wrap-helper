@@ -11,7 +11,7 @@ Wraps a string to a given number of characters using a string break character.
 If you use composer, you can add this package by running 
 
 ````
-composer require nexuslinkservices/word-wrap-helper
+composer require galiteintechnologies/word-wrap-helper
 ````
 
 ## Usage
